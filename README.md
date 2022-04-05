@@ -5,14 +5,14 @@
 Ziyue Wang: ziyuewang2022@u.northwestern.edu
 
 
-**Table of Contents**
+## Table of Contents
  - Project Charter
    - Vision 
    - Mission
    - Success Criteria 
 
 
-# Project Charter
+## Project Charter
 
 Simple overview of use/purpose.
 
