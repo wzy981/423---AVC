@@ -1,5 +1,5 @@
 # 423-AVC-Project
-** Table of Contents **
+**Table of Contents**
  - Project Charter
    - Vision 
    - Mission
